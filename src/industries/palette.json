@@ -1,0 +1,278 @@
+{
+ "order": [
+  "real-estate",
+  "manufacturing",
+  "fmcg",
+  "lift-elevator",
+  "agro",
+  "it",
+  "facilities",
+  "asset-management"
+ ],
+ "industries": {
+  "real-estate": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#50A8B8"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#A0D0D0"
+   }
+  },
+  "manufacturing": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "crimson": {
+    "clay": "#ECECEE",
+    "colour": "#E04864"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "green": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "grey": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "red": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "teal": {
+    "clay": "#ECECEE",
+    "colour": "#50A8B8"
+   },
+   "yellow": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   }
+  },
+  "fmcg": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#E04864"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "grey": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   },
+   "mint": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "pipe": {
+    "clay": "#ECECEE",
+    "colour": "#50A8B8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "red": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   },
+   "teal": {
+    "clay": "#ECECEE",
+    "colour": "#50A8B8"
+   },
+   "yellow": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   }
+  },
+  "lift-elevator": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   }
+  },
+  "agro": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "grey": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   }
+  },
+  "it": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "green": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "mint": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#50A8B8"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   }
+  },
+  "facilities": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "dark": {
+    "clay": "#C9CACE",
+    "colour": "#3E4246"
+   },
+   "glass": {
+    "clay": "#ECECEE",
+    "colour": "#D8F0E8"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   }
+  },
+  "asset-management": {
+   "accent": {
+    "clay": "#ECECEE",
+    "colour": "#E04838"
+   },
+   "base": {
+    "clay": "#ECECEE",
+    "colour": "#F4F4F2"
+   },
+   "primary": {
+    "clay": "#ECECEE",
+    "colour": "#70B868"
+   },
+   "secondary": {
+    "clay": "#ECECEE",
+    "colour": "#C8C8C8"
+   },
+   "yellow": {
+    "clay": "#ECECEE",
+    "colour": "#F8D084"
+   }
+  }
+ }
+}

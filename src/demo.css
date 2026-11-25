@@ -1,0 +1,3 @@
+/* Demo host only: the section fills the window. */
+html, body { margin: 0; height: 100%; background: #f1f1f3; }
+.demo { position: relative; width: 100%; height: 100vh; overflow: hidden; }
